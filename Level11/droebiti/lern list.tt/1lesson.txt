@@ -1,0 +1,9 @@
+element.append(add)  #add element
+
+element.clear()   #reset list
+
+list name.-> list.copy()   #coppy list
+
+list name.-> list.count(what element you need to count)
+
+list name.-> list.extend
